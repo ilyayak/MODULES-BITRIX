@@ -1,10 +1,10 @@
 # MODULES-BITRIX
-Here are the most useful modules for 1c BITRIX <br>
+Here are the most useful modules for 1c BITRIX 
 <hr>
-Здесь собраны наиболее полезный модули для 1c BITRIX <br>
+Здесь собраны наиболее полезный модули для 1c BITRIX 
 <hr>
-以下是 1c BITRIX 最有用的模塊<br>
-
+以下是 1c BITRIX 最有用的模塊
+<hr>
 ORIGINAL REPO<br>
 <strong> dev2fun.imagecompress </strong> - https://github.com/darkfriend/dev2fun.imagecompress <br>
 <strong> dev2fun.redirects </strong> - https://github.com/darkfriend/bitrix.redirects <br>
