@@ -1,0 +1,9 @@
+Fix: skip empty email requests.
+Fix: prevent double check request.
+Fix: update cron class.
+Update version. Add site exclusions.
+Fix: set OnEndBufferContentHandler and OnPageStartHandler static.
+Fix: rc_check type.
+Upd: set url exclusion textarea. Disable module for excluded urls.
+Fix: added isset in /Common/Helper.php in http__get_headers()
+Added compatible with PHP 8
