@@ -1,5 +1,5 @@
 # MODULES-BITRIX
-Здесь собраны наиболее полезный модули для 1c BITRIX
+Здесь собраны наиболее полезный модули для 1c BITRIX <br>
 ОРИГИНАЛЬНЫЕ репо | магазин <br>
 <strong>dev2fun.imagecompress</strong> - https://github.com/darkfriend/dev2fun.imagecompress <br>
 <strong>dev2fun.redirects</strong> - https://github.com/darkfriend/bitrix.redirects<br>
