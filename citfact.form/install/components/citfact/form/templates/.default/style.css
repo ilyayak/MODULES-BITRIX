@@ -1,0 +1,60 @@
+.form-generator {
+    padding: 25px 15px 15px;
+    border: 1px solid #D1D1D1;
+    width: 400px;
+}
+
+.form-generator .alert {
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.form-generator .alert-success {
+    background-color: #DFF0D8;
+    border-color: #D6E9C6;
+    color: #3C763D;
+}
+
+.form-generator .alert-danger {
+    background-color: #F2DEDE;
+    border-color: #EBCCD1;
+    color: #A94442;
+}
+
+.form-generator .form-group {
+    margin: 0 0 10px 0;
+}
+
+.form-generator .form-group label {
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.form-generator .form-group .form-control {
+    display: block;
+    width: 100%;
+}
+
+.form-generator .form-group .calendar-container {
+    position: relative;
+}
+
+.form-generator .form-group .calendar-container span.calendar {
+    background: url("/bitrix/panel/main/images/bx-admin-sprite-small-1.png") no-repeat scroll 0 -1934px;
+    width: 16px;
+    height: 15px;
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+    top: 4px;
+}
+
+.form-generator .form-group input[type=file],
+.form-generator .form-group .captcha-image {
+    display: block;
+}
+
+.form-generator .form-group .captcha-image {
+    cursor: pointer;
+}
