@@ -2,7 +2,9 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="F:/www/bitrixdocs/modules_business" />
+      <path value="$PROJECT_DIR$/../../../www/bitrixdocs/modules_business" />
+      <path value="$PROJECT_DIR$/dev2fun.redirects/vendor/composer" />
+      <path value="$PROJECT_DIR$/dev2fun.redirects/vendor/darkfriend/hlhelpers" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />

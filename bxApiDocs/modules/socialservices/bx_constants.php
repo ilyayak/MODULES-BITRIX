@@ -1,0 +1,33 @@
+<?
+/**
+ * B24NETWORK_URL
+ */
+define('B24NETWORK_URL', $defaultValue);
+
+/**
+ * BITRIX_CLOUD_ADV_URL
+ */
+define('BITRIX_CLOUD_ADV_URL', 'https://cloud-adv.bitrix.info');
+
+/**
+ * BITRIXSEO_URL
+ */
+define('BITRIXSEO_URL', BITRIX_CLOUD_ADV_URL);
+
+/**
+ * SOCSERV_AUTHORISATION_ERROR
+ */
+define('SOCSERV_AUTHORISATION_ERROR', 1);
+
+/**
+ * SOCSERV_REGISTRATION_DENY
+ */
+define('SOCSERV_REGISTRATION_DENY', 2);
+
+/**
+ * SOCSERV_DEFAULT_HTTP_TIMEOUT
+ */
+define('SOCSERV_DEFAULT_HTTP_TIMEOUT', 10);
+
+
+?>

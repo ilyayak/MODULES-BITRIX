@@ -1,0 +1,13 @@
+<?
+/**
+ * BANNER_UNIFORMITY_DIVERGENCE_COEF
+ */
+define('BANNER_UNIFORMITY_DIVERGENCE_COEF', 0.05);
+
+/**
+ * ADMIN_MODULE_NAME
+ */
+define('ADMIN_MODULE_NAME', "advertising");
+
+
+?>
